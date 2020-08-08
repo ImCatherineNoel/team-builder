@@ -16,7 +16,10 @@ function App() {
   return (
     <div className='App'>
       <Form />
-      
+    
+    <div>
+      <h2>Current team:</h2>
+    </div>
     </div>
   );
 }
