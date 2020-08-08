@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+form{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+font-size:11px;
+padding:30px;
+border:solid 1px #aacfe4;
+width:70px;
+margin:0 auto;
+background-color: #282c34;
+color: cornsilk;
+}
+
+.button{
+  width:300px;
+  margin-top: 30px;
+  background-color:#282c34;
+  color: cornsilk;
+  border: 1px cornsilk solid;
+}
